@@ -13,7 +13,7 @@ color: white;
 background-image: url('/background.jpg');
 scrollbar-width: 0;
 &::-webkit-scrollbar {
-  display: none;}
+  display: one;}
 `;
 
 function App() {
